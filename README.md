@@ -10,7 +10,7 @@ I used visual studio code to create this code.
 
 ## Screenshot
 
-<img src="generate password booksearch.png">
+<img src="booksearch.png">
 
 ## Credits
 
